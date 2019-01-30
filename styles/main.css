@@ -3139,6 +3139,10 @@ body {
   color: #55acee;
 }
 
+.btn-bg-twitter {
+  background-color: #55acee;
+}
+
 .btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
   color: #3ea1ec;
 }
