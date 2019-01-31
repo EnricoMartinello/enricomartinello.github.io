@@ -3141,8 +3141,8 @@ body {
 
 .btn-bg-twitter {
   margin-right: 8px;
-  color: #FFFFFF;
-  background-color: #55acee;
+  background-color: #e6e6e6;
+  color: #55acee;
 }
 
 .btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
@@ -3155,8 +3155,8 @@ body {
 
 .btn-bg-facebook {
   margin-right: 8px;
-  color: #FFFFFF;
-  background-color: #344e86;
+  background-color: #e6e6e6;
+  color: #344e86;
 }
 
 .btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active {
@@ -3169,8 +3169,8 @@ body {
 
 .btn-bg-instagram {
   margin-right: 8px;
-  color: #FFFFFF;
-  background-color: #bc2a8d;
+  background-color: #e6e6e6;
+  color: #bc2a8d;
 }
 
 .btn-instagram:hover, .btn-instagram:focus, .btn-instagram:active {
@@ -3183,8 +3183,8 @@ body {
 
 .btn-bg-linkedin {
   margin-right: 8px;
-  color: #FFFFFF;
-  background-color: #0077B5;
+  background-color: #e6e6e6;
+  color: #0077B5;
 }
 
 .btn-linkedin:hover, .btn-linkedin:focus, .btn-linkedin:active {
